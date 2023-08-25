@@ -1,5 +1,5 @@
 # Codigo_matlab-
-#Matlab #mat #ClassificationLearner #Clasificación #RegressionLearner #Regresión
+#Matlab #mat #ClassificationLearner #Clasificación
 Al utilizar este recurso, cite la publicación original:
 Pronto notificaremos el Artículo. (Actualmente se encuentra en revisión)
 
