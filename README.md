@@ -5,7 +5,7 @@ Al utilizar este recurso, cite la publicación original:
 Pronto notificaremos el Artículo. (Actualmente se encuentra en revisión)
 
 # Datasets
-La puedes obtener de: \url{https://dx.doi.org/10.21227/fbzx-t193}
+La puedes obtener de: \url{https://dx.doi.org/10.21227/fbzx-t193} ó \url{https://ieee-dataport.org/documents/consumo-de-energ%C3%ADa}
 
 # Especificaciones técnicas del repositorio
 ## Para que funcione mejor se recomienda:
